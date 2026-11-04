@@ -9,7 +9,9 @@
  
 
 
-https://github.com/user-attachments/assets/708d6639-5fe1-4110-92ad-774574372f27
+
+
+
 
 
 
@@ -169,9 +171,10 @@ probability. The label with the highest probability will treated to be the predi
 So when model will classify [aemnst] in one single class using mathematical operation on hand landmarks we will classify further into single alphabet a or e or m or n or s or t. 
 
 -Finally, we got **97%** Accuracy (with and without clean background and proper lightning conditions) through our method. And if the background is clear and there is good lightning condition then we got even **99%** accurate results 
-<img width="1330" height="783" alt="Screenshot 2026-11-01 181250" src="https://github.com/user-attachments/assets/0bdf3025-8ded-4591-ae1a-d6ae82fa5592" />
-<img width="1387" height="848" alt="Screenshot 2026-11-01 181309" src="https://github.com/user-attachments/assets/3d608168-7af4-45e9-aa7c-5948788ac083" />
-<img width="1346" height="822" alt="Screenshot 2026-11-01 181330" src="https://github.com/user-attachments/assets/eb28f5e5-4fa8-4b19-8ef8-91721acf909d" />
+<img width="1346" height="822" alt="Screenshot 2026-11-01 181330" src="https://github.com/user-attachments/assets/fa5897c6-7d00-418c-8249-bd9676d8e94e" />
+<img width="1387" height="848" alt="Screenshot 2026-11-01 181309" src="https://github.com/user-attachments/assets/7cc35055-0024-42ff-a9c0-122b872ecfb7" />
+<img width="1357" height="715" alt="Screenshot 2026-11-01 181153" src="https://github.com/user-attachments/assets/7ae4f104-474e-401a-9416-3e429ed59186" />
+
 
 
 **Text To Speech Translation:**
